@@ -21,6 +21,9 @@
 - [Animationer i css](https://animate.style/)
 - [Gitmoji](https://gitmoji.dev/)
 
+  ## Security
+  - [Installera SSH-nyckel](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+
 ## Jenni Pullis tips 
 - [Devlove](https://github.com/postmodernistx/devlove/blob/main/README.md)
 - [Web development checklist] https://github.com/postmodernistx/web-dev-checklist
