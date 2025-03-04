@@ -17,7 +17,7 @@ rules: {
       'keyword-spacing': ['error', { before: true, after: true }], // Enforce consistent spacing before/after keywords
     },
 
-// Karins:
+// Mer utförlig
 rules: {
       'no-unused-vars': ['error', { argsIgnorePattern: '^_' }], // Prevent unused variables while ignoring intentional `_` placeholders
       'no-console': 'warn', // Encourage removal of `console.log` in production code
