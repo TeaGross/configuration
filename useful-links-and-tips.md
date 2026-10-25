@@ -14,6 +14,7 @@
 ## README
 - [Badges](https://github.com/Ileriayo/markdown-badges)
 - [Badges](https://github.com/ziadOUA/m3-Markdown-Badges)
+- [badges](https://www.aitechworlds.com/tools/tech-stack-badges/)
 - 
 ## Övrigt
 - [AI-bildverktyg](https://designer.microsoft.com/image-creator)
